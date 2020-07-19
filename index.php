@@ -1,9 +1,6 @@
 <html>
 <body>
 <p>
-Segunda version
-<p>
-<?php
-phpinfo();
-?>
+Tercera version
+
 </body>
